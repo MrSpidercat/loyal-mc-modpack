@@ -61,8 +61,8 @@
     ],
     "key": "HUD Corner",
     "toolTip": "durabilityviewer.config.tt.corner",
-    "value": 1,
-    "defaultValue": 1,
+    "value": 0,
+    "defaultValue": 0,
     "minValue": 0,
     "maxValue": 3
   },

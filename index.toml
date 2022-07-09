@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/durabilityviewer.json"
-hash = "9074db4f7dfe9168354c1ba5f89de188a660e384eeb087c91f2a60f495594521"
+hash = "f603891b4acc69f58ce40dd87cf23d2fb441a144563d6a7a04233fdbb0c691cd"
 
 [[files]]
 file = "mods/bedrockskinutility.pw.toml"
