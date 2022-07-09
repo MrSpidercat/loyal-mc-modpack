@@ -5,6 +5,10 @@ file = "config/durabilityviewer.json"
 hash = "f603891b4acc69f58ce40dd87cf23d2fb441a144563d6a7a04233fdbb0c691cd"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "4e527f98146bb7caa91cf864f99becd27042675b73f3ae77b99ce369c2c0ebd9"
+
+[[files]]
 file = "mods/bedrockskinutility.pw.toml"
 hash = "8399acf40ad93ed00f1bc89aec10d65bd9f863f27ed8a3539694d7c64cb38eeb"
 metafile = true
@@ -67,6 +71,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+metafile = true
+
+[[files]]
+file = "mods/i-know-what-im-doing.pw.toml"
+hash = "4191daf9db203945cd504e0489ce9008f718bb69fa8ce36cf3847ab28f05355c"
 metafile = true
 
 [[files]]
