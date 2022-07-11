@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/SkipTransitions.properties"
+hash = "65c60525a8520ef94fb060b187bc73dd57128c77d865d5e417538823eb97c679"
+
+[[files]]
 file = "config/durabilityviewer.json"
 hash = "f603891b4acc69f58ce40dd87cf23d2fb441a144563d6a7a04233fdbb0c691cd"
 
@@ -156,6 +160,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b4d8e22f7916c1a2e8be07b708cd02d16bd730e382bb7ca36a615cf3e6782940"
+metafile = true
+
+[[files]]
+file = "mods/skiptransitions.pw.toml"
+hash = "1e3fdc90ca29630ec56ca281fe6900d8331e96204d1e08b08f4a449d0efa0ca5"
 metafile = true
 
 [[files]]

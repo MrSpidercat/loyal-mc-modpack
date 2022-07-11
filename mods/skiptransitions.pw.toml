@@ -1,0 +1,8 @@
+name = "skiptransitions"
+filename = "skiptransitions-1.3.2+1.18.x.jar"
+side = "both"
+
+[download]
+url = "https://loyalmc.net/skiptransitions-1.3.2+1.18.x.jar"
+hash-format = "sha1"
+hash = "ba6c0af7fc1d9a93152c4a173d35e196de2480e8"
