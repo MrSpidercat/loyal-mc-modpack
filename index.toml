@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d4aca8f69489a3df5cbd9793e3f74f107b1b8da477bd21b6125db6d4b182cf92"
+hash = "f4fc13b7b920ecfb2587ca2feebb9764b0e62911f0a4b33c847d61ac5b3c6f68"
 metafile = true
 
 [[files]]
@@ -194,5 +194,5 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "b8dfd96f7a73b5f02e946ec55130aed0f6d957ed377992e95ae2336010f0b1e7"
+hash = "09b54f9200c8bba65b6c467cc3f4e6edeb6fb9129f85a2390257933b07f23ebb"
 metafile = true
