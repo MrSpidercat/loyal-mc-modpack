@@ -98,6 +98,11 @@ hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
 metafile = true
 
 [[files]]
+file = "mods/item-model-fix.pw.toml"
+hash = "b893248407cbc155a5182b151acf50df075cef08bd0a9470c222425e8e47a809"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
 metafile = true
@@ -145,6 +150,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "91e24178f86243b32a8516ceefd1f21b054d7c963e44f274ddfede8d8d41c027"
+metafile = true
+
+[[files]]
+file = "mods/numeral-ping.pw.toml"
+hash = "d66a3e2d8bd4e887e659460567a311f2a184a191be157804c757890f92d143d4"
 metafile = true
 
 [[files]]
