@@ -23,11 +23,6 @@ hash = "90de023b54d15536a49e98bd4b79319940381bad60e8ca9798a4f5468b9b156f"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "f06d2023edfd505850b00538fad3e4963fd0b88e8385e1610a3cbe258a806d75"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "2b9d778f845e30e9111c5b02f8fc68c797ad39e2a79c7e9d88ab54fa133b100b"
 metafile = true
@@ -70,6 +65,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+metafile = true
+
+[[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "ea71f8679ff436996c48a8ca94b083740acd82a268e79618f7823f5f507b187f"
 metafile = true
 
 [[files]]
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "dc1f47a526f2264dc215437a81668d54c084d5beaaa6cbf6e284b88a59af88b5"
+hash = "bdc4a962873b67b3d6e2a7a6ff626ee158db4acd65a3f5aee124734633322677"
 metafile = true
 
 [[files]]
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "f4fc13b7b920ecfb2587ca2feebb9764b0e62911f0a4b33c847d61ac5b3c6f68"
+hash = "87d7dc6ecde7385036a802afd8c593236cf8e60f2479b575d78e5396ae556c04"
 metafile = true
 
 [[files]]
