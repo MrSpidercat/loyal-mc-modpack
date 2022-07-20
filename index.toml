@@ -9,8 +9,17 @@ file = "config/durabilityviewer.json"
 hash = "f603891b4acc69f58ce40dd87cf23d2fb441a144563d6a7a04233fdbb0c691cd"
 
 [[files]]
+file = "config/inspecio.json"
+hash = "7a88fa204fa6c32883ee9d6c9705a83ebc5f425c3c07d38f9aadce2d544d134d"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "4e527f98146bb7caa91cf864f99becd27042675b73f3ae77b99ce369c2c0ebd9"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "b99f8b297b9429f5185c84805d1a67f650bba836cf83c6c9d81b275261169672"
+metafile = true
 
 [[files]]
 file = "mods/bedrockskinutility.pw.toml"
@@ -204,5 +213,5 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "15bf1b7f931e37f95db87ce7c50d2f1a8dc6b420c46856c2bbdca09bbf18ee62"
+hash = "0db93ec8a213d8b97ec15b6ff5bbad1474792ca22c0e70a690b4228629735121"
 metafile = true
