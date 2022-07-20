@@ -5,6 +5,10 @@ file = "config/SkipTransitions.properties"
 hash = "65c60525a8520ef94fb060b187bc73dd57128c77d865d5e417538823eb97c679"
 
 [[files]]
+file = "config/capes.json5"
+hash = "53a832e6bf982fcc4935c9c42acc689bb95dfa6025c394ff0b190c15fc31121d"
+
+[[files]]
 file = "config/durabilityviewer.json"
 hash = "f603891b4acc69f58ce40dd87cf23d2fb441a144563d6a7a04233fdbb0c691cd"
 
