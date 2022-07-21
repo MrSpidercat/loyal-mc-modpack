@@ -120,6 +120,11 @@ hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
 
 [[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
+metafile = true
+
+[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "ea71f8679ff436996c48a8ca94b083740acd82a268e79618f7823f5f507b187f"
 metafile = true
@@ -181,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "25b0e6c8525a7dd5aceb9e79eb0592371c18fc59ee14a864e5657ecc09beea64"
+hash = "7ce126f60e8e70bfd8d58058858ac59652d69c15f285eb0a9119cc6b2d3458eb"
 metafile = true
 
 [[files]]
@@ -206,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "6239d2ef7c8e8ce8661be4d4baa3a4ae9bf754384af7650cbd9a5965e17df64e"
+hash = "b054c54c9732cf012526bcb529c189f808692c17aa29e306444a2110df43d38d"
 metafile = true
 
 [[files]]
