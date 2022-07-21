@@ -3,6 +3,6 @@ filename = "LMCM.jar"
 side = "both"
 
 [download]
-url = "https://loyalmc.net/LMCM.jar"
+url = "https://loyalmc.net/mods/LMCM.jar"
 hash-format = "sha1"
 hash = "fd103ac7fe6eeacb145df3bf572e71e832eee2bd"

@@ -9,6 +9,30 @@ file = "config/capes.json5"
 hash = "53a832e6bf982fcc4935c9c42acc689bb95dfa6025c394ff0b190c15fc31121d"
 
 [[files]]
+file = "config/customsplashscreen.json5"
+hash = "536f50bca2e98c81a7fef4a87ba4e545aebae9963f3652eaa5f1169b440a4deb"
+
+[[files]]
+file = "config/customsplashscreen/background.png"
+hash = "fa862b02d5b72b939d467123b42991086527d9a0ef117d8f3df3f21703593a07"
+
+[[files]]
+file = "config/customsplashscreen/mojangstudios.png"
+hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
+
+[[files]]
+file = "config/customsplashscreen/mojank.png"
+hash = "ebe2b6434c2d4a0c3990c46acf77464bb7ce1a5ac83c6b495bccadc1f1a048a7"
+
+[[files]]
+file = "config/customsplashscreen/progressbar.png"
+hash = "e2e0555e30fd677e05570551f36d3a95fd844dcadc62b15e4f901c3442a5e3c7"
+
+[[files]]
+file = "config/customsplashscreen/progressbar_background.png"
+hash = "6e2fa0adee9638b3e8f36e75ad048f0abb0de2d06b591961c6b2aff943fd46f2"
+
+[[files]]
 file = "config/durabilityviewer.json"
 hash = "f603891b4acc69f58ce40dd87cf23d2fb441a144563d6a7a04233fdbb0c691cd"
 
@@ -187,12 +211,12 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "b4d8e22f7916c1a2e8be07b708cd02d16bd730e382bb7ca36a615cf3e6782940"
+hash = "ae4b4112db3f14bcb9e8dc10ea06e83d84bff4d9ad2a3dfd74533c1256b98218"
 metafile = true
 
 [[files]]
-file = "mods/skiptransitions.pw.toml"
-hash = "1e3fdc90ca29630ec56ca281fe6900d8331e96204d1e08b08f4a449d0efa0ca5"
+file = "mods/skip-transitions.pw.toml"
+hash = "2fa2a85756bccff04668147d557e77394a583604ab2eae258311cff9e0864512"
 metafile = true
 
 [[files]]
@@ -217,5 +241,5 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "0db93ec8a213d8b97ec15b6ff5bbad1474792ca22c0e70a690b4228629735121"
+hash = "825e6936b53d08784e7b94c1d4be4d1a5b079ed204970043c34c21bf8b53935b"
 metafile = true
