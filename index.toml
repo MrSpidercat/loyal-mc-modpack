@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation.pw.toml"
-hash = "6cb34219f7edaae938e9f4edabe1ee15742c6784d59dc97fc3e6df4a5e24d850"
+hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmcm.pw.toml"
-hash = "1fa554070ef9ea4fd267bcbe4633cd95edd1ceab0e04d03197fc56349e104bd4"
+hash = "38d08909252762ddc677e522f321e98295072b963ced1f357aeb7d1f0070032d"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "7ce126f60e8e70bfd8d58058858ac59652d69c15f285eb0a9119cc6b2d3458eb"
+hash = "0ef44b9254451d85119e6f7906fa1069edd4eb513d6b183db9e3f56f66e6281a"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "8bdc3c1b5079b7fbe89f995d1a100e1df8dcf47e73ef089abf444ecc8e320527"
+hash = "3f2148f425622b9226aac1a5ea41f6613f9fdc0f484eadd72d30714ab0a73895"
 metafile = true
 
 [[files]]
@@ -246,5 +246,5 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "825e6936b53d08784e7b94c1d4be4d1a5b079ed204970043c34c21bf8b53935b"
+hash = "01cd799124d6e1709187f7bc49666ff87e774aafb50f7b97b3689fc210bef5d7"
 metafile = true
