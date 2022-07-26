@@ -80,6 +80,11 @@ hash = "5e289f7ef37b75b340dde02ee3a11a92ba6d4f045fd4f67eb3647b18cf51f739"
 metafile = true
 
 [[files]]
+file = "mods/customsplashscreen.pw.toml"
+hash = "958edcd57dbb9f923080ac1119c8cf76fd4a7951c8cda5952117fb17243a5d94"
+metafile = true
+
+[[files]]
 file = "mods/durabilityviewer.pw.toml"
 hash = "c02eabded8af6a2282b4b44aab15206f198d44be3df21dd93ec8a8d4824ac32f"
 metafile = true
