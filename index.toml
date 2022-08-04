@@ -190,6 +190,11 @@ hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "8fca044c06687f1e0f645ea179fa96a73abe84c7e4e4c982633868c150553732"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "90cfb6a5fdd929c94421cd0674e2af68089e33a8e3965d7dec723ab00df2e94a"
 metafile = true
