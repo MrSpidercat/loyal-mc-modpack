@@ -50,6 +50,11 @@ hash = "b99f8b297b9429f5185c84805d1a67f650bba836cf83c6c9d81b275261169672"
 metafile = true
 
 [[files]]
+file = "mods/audio-engine-tweaks.pw.toml"
+hash = "00d8a4cdf1fecfb1b471e21546d7817bddb252aab3ea72d167ae690935a3847f"
+metafile = true
+
+[[files]]
 file = "mods/bedrockskinutility.pw.toml"
 hash = "8399acf40ad93ed00f1bc89aec10d65bd9f863f27ed8a3539694d7c64cb38eeb"
 metafile = true
@@ -70,6 +75,11 @@ hash = "3b2c1ac53b3aed8e5d0a20ed50a663e8c24948216ab93acd4135c69b3c2fa1e1"
 metafile = true
 
 [[files]]
+file = "mods/cleardespawn.pw.toml"
+hash = "379a2c793f5f3f31b06581ba86de7ae4f32f401b466fb4dd684d6a7596df2fbf"
+metafile = true
+
+[[files]]
 file = "mods/clickthrough.pw.toml"
 hash = "b46ae91063839b3aaa7a863f69586e00883a6c98b2959005eaff27a459aa5d82"
 metafile = true
@@ -82,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/customsplashscreen.pw.toml"
 hash = "958edcd57dbb9f923080ac1119c8cf76fd4a7951c8cda5952117fb17243a5d94"
+metafile = true
+
+[[files]]
+file = "mods/dcch.pw.toml"
+hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
 metafile = true
 
 [[files]]
@@ -217,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "8cc78f5916f31b9d350f75d5fd0dad8df9662066763324b36abf6eaced24aef5"
+metafile = true
+
+[[files]]
+file = "mods/particles.pw.toml"
+hash = "ccb61c6c944b2a2ea00d325c1b5483fd60deaa459d631b421fe7cf1366f7dedb"
 metafile = true
 
 [[files]]
