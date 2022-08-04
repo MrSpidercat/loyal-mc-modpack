@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
+hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
 metafile = true
 
 [[files]]
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "0ef44b9254451d85119e6f7906fa1069edd4eb513d6b183db9e3f56f66e6281a"
+hash = "90cfb6a5fdd929c94421cd0674e2af68089e33a8e3965d7dec723ab00df2e94a"
 metafile = true
 
 [[files]]
@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "91e24178f86243b32a8516ceefd1f21b054d7c963e44f274ddfede8d8d41c027"
+hash = "a067a3a38a6df8bf4440edc13ad29e22adf31041858c4fc4aee991c0f0e87263"
 metafile = true
 
 [[files]]
@@ -251,5 +251,5 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "01cd799124d6e1709187f7bc49666ff87e774aafb50f7b97b3689fc210bef5d7"
+hash = "52bdbde8f7c40334af1549d06d1c2b4fd514d62d5169feae8b981328b1848922"
 metafile = true
