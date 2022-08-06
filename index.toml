@@ -245,6 +245,11 @@ hash = "ae4b4112db3f14bcb9e8dc10ea06e83d84bff4d9ad2a3dfd74533c1256b98218"
 metafile = true
 
 [[files]]
+file = "mods/searchable-containers-retraversal.pw.toml"
+hash = "5de1a8776f9235a58667ef4dec3c9f8a3847da4fb6e4a5a1999021b719649ee4"
+metafile = true
+
+[[files]]
 file = "mods/skip-transitions.pw.toml"
 hash = "2fa2a85756bccff04668147d557e77394a583604ab2eae258311cff9e0864512"
 metafile = true
@@ -271,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "52bdbde8f7c40334af1549d06d1c2b4fd514d62d5169feae8b981328b1848922"
+hash = "44ff9922b86d4c7f8cd74da120536f0670dfa0584da0b03b7d53cd5d82690f2e"
 metafile = true
 
 [[files]]
