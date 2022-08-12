@@ -46,7 +46,7 @@ hash = "4e527f98146bb7caa91cf864f99becd27042675b73f3ae77b99ce369c2c0ebd9"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "b99f8b297b9429f5185c84805d1a67f650bba836cf83c6c9d81b275261169672"
+hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "ea71f8679ff436996c48a8ca94b083740acd82a268e79618f7823f5f507b187f"
+hash = "61c9106111d0e22864a9a68f678faa5094fc1cbdfdc50a72d3898b1bc217a032"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "90cfb6a5fdd929c94421cd0674e2af68089e33a8e3965d7dec723ab00df2e94a"
+hash = "9dbc20e8a4e9bd8c997c2af628640f8dcdd05fde6437afbacd630531735c1fcb"
 metafile = true
 
 [[files]]
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "44ff9922b86d4c7f8cd74da120536f0670dfa0584da0b03b7d53cd5d82690f2e"
+hash = "98636b823c117cc7fd28f3779b6de0c37141cfc753cf395bf08fe8ae67bb4b3c"
 metafile = true
 
 [[files]]
