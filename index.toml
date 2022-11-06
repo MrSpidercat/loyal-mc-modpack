@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "90068106eae53049183a19b523d6b8cc4288b1868dcc94a76b1770064cdabf01"
+hash = "affd68e9c1f17994031a066f18788f63649099d8ebc0f131e5db49c89f1be8e6"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "a067a3a38a6df8bf4440edc13ad29e22adf31041858c4fc4aee991c0f0e87263"
+hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
 metafile = true
 
 [[files]]
