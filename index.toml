@@ -255,6 +255,11 @@ hash = "5de1a8776f9235a58667ef4dec3c9f8a3847da4fb6e4a5a1999021b719649ee4"
 metafile = true
 
 [[files]]
+file = "mods/simple-shulker-preview.pw.toml"
+hash = "e48b9bd2c6543cb91f83338cbe01647a3010b3a6a92c9065d65816bbbdee9a68"
+metafile = true
+
+[[files]]
 file = "mods/skip-transitions.pw.toml"
 hash = "2fa2a85756bccff04668147d557e77394a583604ab2eae258311cff9e0864512"
 metafile = true
