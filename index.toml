@@ -45,6 +45,10 @@ file = "config/isxander-main-menu-credits.json"
 hash = "4e527f98146bb7caa91cf864f99becd27042675b73f3ae77b99ce369c2c0ebd9"
 
 [[files]]
+file = "config/mousewheelie.hjson"
+hash = "dda85738e0e40ddeecafdf47402d4bb6e1972304631fc08d7827edf14c6c3dcb"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
@@ -215,6 +219,11 @@ hash = "741381be667a7b124ce60ba17fca9207369bd6ead4e58ce64fa140aff95f8159"
 metafile = true
 
 [[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "ab9f1a44770958246ddee1e25a0748ca8c4597daceadebe7ecd3b59b50df7951"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "29343584d66805c0d453bbd6a04bde62119a372ad6f2be32203a057cd5dd639b"
 metafile = true
@@ -298,3 +307,7 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "bf1922d77e7e4b5667532dd6abd36f5cdff870314247d43a1cf50e9139e18458"
 metafile = true
+
+[[files]]
+file = "readme.md"
+hash = "947919c951c2414f6acf4e2d570fcd843dc365165d9099d7faff87ef6c3428d1"
