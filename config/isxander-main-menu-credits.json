@@ -2,14 +2,14 @@
   "main_menu": {
     "top_left": [],
     "top_right": [],
-    "bottom_left": [{"text":"Loyal MC Survival Modpack","color":"white"}],
+    "bottom_left": [{"text":"LMCM 1.6.0","color":"white"}],
     "bottom_right": [],
     "mod_blacklist": []
   },
   "pause_menu": {
     "top_left": [],
     "top_right": [],
-    "bottom_left": [{"text":"Loyal MC Survival Modpack","color":"white"}],
+    "bottom_left": [{"text":"LMCM 1.6.0","color":"white"}],
     "bottom_right": [],
     "mod_blacklist": []
   }
