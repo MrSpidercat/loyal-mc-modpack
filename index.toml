@@ -204,6 +204,11 @@ hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
 metafile = true
 
 [[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "13cf5c8363c82bbd368b0cc7bc7a779bfabbee0a552471a976f41af58e6df1b6"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "133ec9cccfd238b4ce6bd5b95dcf70a9603c86d7c22a347c483925b34425fbb5"
 metafile = true
